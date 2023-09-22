@@ -143,7 +143,7 @@ int write_num(int ind, char buffer[],
  * @ind: Index at which the number starts in the buffer
  * @buffer: Array of Characters
  * @flags: specifies Flags
- * @width: specifies Width 
+ * @width: specifies Width
  * @precision: Precision specifier
  * @size: specifier of Size
  *
