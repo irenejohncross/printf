@@ -43,7 +43,7 @@ int print_unsigned(va_list types, char buffer[],
  * @flags:  calculates active flags
  * @width: Get width
  * @precision: precision specification
- * @size: specifies size 
+ * @size: specifies size
  * Return: number of characters printed
  */
 int print_octal(va_list types, char buffer[],
